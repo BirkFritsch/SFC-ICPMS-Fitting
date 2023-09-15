@@ -1,0 +1,433 @@
+Summary,Value,Material,Run,Peak,Unit,Description
+Ti47 first full fit R2adj,0.8922329462174787,Ti47,first,,,full fit R2adj
+Ti47 first peak 1 area / ng cm-2,2.0950575851119297,Ti47,first,1.0,ng cm-2,area / ng cm-2
+Ti47 first peak 1 area error / ng cm-2,0.12263480725736278,Ti47,first,1.0,ng cm-2,area error / ng cm-2
+Ti47 first peak 1 ln(std),0.14544090091051295,Ti47,first,1.0,,ln(std)
+Ti47 first peak 1 ln(std) error,0.0031522678025986445,Ti47,first,1.0,,ln(std) error
+Ti47 first peak 1 xc / s,500.75106594507497,Ti47,first,1.0,s,xc / s
+Ti47 first peak 1 xc error / s,0.7809256028488525,Ti47,first,1.0,s,xc error / s
+Ti47 first peak 1 mode / s,490.2698959775962,Ti47,first,1.0,s,mode / s
+Ti47 first peak 1 mode error / s,0.8869470522953795,Ti47,first,1.0,s,mode error / s
+Ti47 first peak 1 mode potential / VvsRHE,1.8558869011467083,Ti47,first,1.0,VvsRHE,mode potential / VvsRHE
+Ti47 first peak 1 mode potential error / VvsRHE,0.0044332945615636055,Ti47,first,1.0,VvsRHE,mode potential error / VvsRHE
+Ti47 first peak 2 area / ng cm-2,1.2441908758826568,Ti47,first,2.0,ng cm-2,area / ng cm-2
+Ti47 first peak 2 area error / ng cm-2,0.36326553147812324,Ti47,first,2.0,ng cm-2,area error / ng cm-2
+Ti47 first peak 2 ln(std),0.45255662064317326,Ti47,first,2.0,,ln(std)
+Ti47 first peak 2 ln(std) error,0.02249171094370519,Ti47,first,2.0,,ln(std) error
+Ti47 first peak 2 xc / s,116.20892520406865,Ti47,first,2.0,s,xc / s
+Ti47 first peak 2 xc error / s,6.536550605584844,Ti47,first,2.0,s,xc error / s
+Ti47 first peak 2 mode / s,94.68751513689597,Ti47,first,2.0,s,mode / s
+Ti47 first peak 2 mode error / s,5.66410011216725,Ti47,first,2.0,s,mode error / s
+Ti47 first peak 2 mode potential / VvsRHE,1.2002695015344929,Ti47,first,2.0,VvsRHE,mode potential / VvsRHE
+Ti47 first peak 2 mode potential error / VvsRHE,3.939036555600239e-06,Ti47,first,2.0,VvsRHE,mode potential error / VvsRHE
+Ti47 first peak 3 area / ng cm-2,0.6909297940067411,Ti47,first,3.0,ng cm-2,area / ng cm-2
+Ti47 first peak 3 area error / ng cm-2,0.03669915600553303,Ti47,first,3.0,ng cm-2,area error / ng cm-2
+Ti47 first peak 3 ln(std),0.06778696452342035,Ti47,first,3.0,,ln(std)
+Ti47 first peak 3 ln(std) error,0.0021935722694470254,Ti47,first,3.0,,ln(std) error
+Ti47 first peak 3 xc / s,848.2421204156792,Ti47,first,3.0,s,xc / s
+Ti47 first peak 3 xc error / s,1.3841665543210717,Ti47,first,3.0,s,xc error / s
+Ti47 first peak 3 mode / s,844.3533278091651,Ti47,first,3.0,s,mode / s
+Ti47 first peak 3 mode error / s,1.4005152629279725,Ti47,first,3.0,s,mode error / s
+Ti47 first peak 3 mode potential / VvsRHE,1.6854922114261202,Ti47,first,3.0,VvsRHE,mode potential / VvsRHE
+Ti47 first peak 3 mode potential error / VvsRHE,0.0070003810240767406,Ti47,first,3.0,VvsRHE,mode potential error / VvsRHE
+Ti47 first peak 4 area / ng cm-2,0.25671528024934387,Ti47,first,4.0,ng cm-2,area / ng cm-2
+Ti47 first peak 4 area error / ng cm-2,0.1530404541314471,Ti47,first,4.0,ng cm-2,area error / ng cm-2
+Ti47 first peak 4 ln(std),0.031576102695610654,Ti47,first,4.0,,ln(std)
+Ti47 first peak 4 ln(std) error,0.005360901679371149,Ti47,first,4.0,,ln(std) error
+Ti47 first peak 4 xc / s,1143.8550051928069,Ti47,first,4.0,s,xc / s
+Ti47 first peak 4 xc error / s,2.6047798362481163,Ti47,first,4.0,s,xc error / s
+Ti47 first peak 4 mode / s,1142.715092630318,Ti47,first,4.0,s,mode / s
+Ti47 first peak 4 mode error / s,2.6307849862193646,Ti47,first,4.0,s,mode error / s
+Ti47 first peak 4 mode potential / VvsRHE,1.793665065092596,Ti47,first,4.0,VvsRHE,mode potential / VvsRHE
+Ti47 first peak 4 mode potential error / VvsRHE,0.013164776713285531,Ti47,first,4.0,VvsRHE,mode potential error / VvsRHE
+Ti47 first peak 5 area / ng cm-2,0.04762578727503567,Ti47,first,5.0,ng cm-2,area / ng cm-2
+Ti47 first peak 5 area error / ng cm-2,0.010242107984291567,Ti47,first,5.0,ng cm-2,area error / ng cm-2
+Ti47 first peak 5 ln(std),0.017627371903426312,Ti47,first,5.0,,ln(std)
+Ti47 first peak 5 ln(std) error,0.003066141975330564,Ti47,first,5.0,,ln(std) error
+Ti47 first peak 5 xc / s,972.8161287669079,Ti47,first,5.0,s,xc / s
+Ti47 first peak 5 xc error / s,2.5877571442735174,Ti47,first,5.0,s,xc error / s
+Ti47 first peak 5 mode / s,972.513898172039,Ti47,first,5.0,s,mode / s
+Ti47 first peak 5 mode error / s,2.5890882672728166,Ti47,first,5.0,s,mode error / s
+Ti47 first peak 5 mode potential / VvsRHE,1.355888722506063,Ti47,first,5.0,VvsRHE,mode potential / VvsRHE
+Ti47 first peak 5 mode potential error / VvsRHE,0.012942698520648332,Ti47,first,5.0,VvsRHE,mode potential error / VvsRHE
+Ti47 first peak 6 area / ng cm-2,0.5077594024457653,Ti47,first,6.0,ng cm-2,area / ng cm-2
+Ti47 first peak 6 area error / ng cm-2,0.857372690942217,Ti47,first,6.0,ng cm-2,area error / ng cm-2
+Ti47 first peak 6 ln(std),0.3341629160868743,Ti47,first,6.0,,ln(std)
+Ti47 first peak 6 ln(std) error,0.1278517520648019,Ti47,first,6.0,,ln(std) error
+Ti47 first peak 6 xc / s,255.11574275138173,Ti47,first,6.0,s,xc / s
+Ti47 first peak 6 xc error / s,34.16756298687692,Ti47,first,6.0,s,xc error / s
+Ti47 first peak 6 mode / s,228.16121920112164,Ti47,first,6.0,s,mode / s
+Ti47 first peak 6 mode error / s,36.24696863824909,Ti47,first,6.0,s,mode error / s
+Ti47 first peak 6 mode potential / VvsRHE,1.2002679320701453,Ti47,first,6.0,VvsRHE,mode potential / VvsRHE
+Ti47 first peak 6 mode potential error / VvsRHE,1.4551623349623455e-06,Ti47,first,6.0,VvsRHE,mode potential error / VvsRHE
+Ti47 first peak 7 area / ng cm-2,0.3202143600195479,Ti47,first,7.0,ng cm-2,area / ng cm-2
+Ti47 first peak 7 area error / ng cm-2,0.18958256638615084,Ti47,first,7.0,ng cm-2,area error / ng cm-2
+Ti47 first peak 7 ln(std),0.05634108594624664,Ti47,first,7.0,,ln(std)
+Ti47 first peak 7 ln(std) error,0.015422561042402897,Ti47,first,7.0,,ln(std) error
+Ti47 first peak 7 xc / s,1212.88698796167,Ti47,first,7.0,s,xc / s
+Ti47 first peak 7 xc error / s,37.32694515040181,Ti47,first,7.0,s,xc error / s
+Ti47 first peak 7 mode / s,1209.0430032481654,Ti47,first,7.0,s,mode / s
+Ti47 first peak 7 mode error / s,37.267922559456025,Ti47,first,7.0,s,mode error / s
+Ti47 first peak 7 mode potential / VvsRHE,1.4620411351948452,Ti47,first,7.0,VvsRHE,mode potential / VvsRHE
+Ti47 first peak 7 mode potential error / VvsRHE,0.18636173945335766,Ti47,first,7.0,VvsRHE,mode potential error / VvsRHE
+Ti47 first peak 8 area / ng cm-2,4.969945243384398,Ti47,first,8.0,ng cm-2,area / ng cm-2
+Ti47 first peak 8 area error / ng cm-2,1.7033025469155516,Ti47,first,8.0,ng cm-2,area error / ng cm-2
+Ti47 first peak 8 ln(std),0.8212387792800698,Ti47,first,8.0,,ln(std)
+Ti47 first peak 8 ln(std) error,0.303387125097941,Ti47,first,8.0,,ln(std) error
+Ti47 first peak 8 xc / s,826.9658363139569,Ti47,first,8.0,s,xc / s
+Ti47 first peak 8 xc error / s,160.71045777259684,Ti47,first,8.0,s,xc error / s
+Ti47 first peak 8 mode / s,421.29371518188674,Ti47,first,8.0,s,mode / s
+Ti47 first peak 8 mode error / s,225.33364854764855,Ti47,first,8.0,s,mode error / s
+Ti47 first peak 8 mode potential / VvsRHE,1.7997920426756573,Ti47,first,8.0,VvsRHE,mode potential / VvsRHE
+Ti47 first peak 8 mode potential error / VvsRHE,0.06308612290185656,Ti47,first,8.0,VvsRHE,mode potential error / VvsRHE
+Ti47 first peak 1 area_single / ng cm-2,1.3905103042278733,Ti47,first,1.0,ng cm-2,area_single / ng cm-2
+Ti47 first peak 1 area_single error / ng cm-2,0.020005827181410547,Ti47,first,1.0,ng cm-2,area_single error / ng cm-2
+Ti47 first peak 1 ln(std)_single,0.07087850785183705,Ti47,first,1.0,,ln(std)_single
+Ti47 first peak 1 ln(std)_single error,0.0010397543699258748,Ti47,first,1.0,,ln(std)_single error
+Ti47 first peak 1 xc_single / s,484.67693590815946,Ti47,first,1.0,s,xc_single / s
+Ti47 first peak 1 xc_single error / s,0.06413193603793234,Ti47,first,1.0,s,xc_single error / s
+Ti47 first peak 1 mode_single / s,482.2481398669202,Ti47,first,1.0,s,mode_single / s
+Ti47 first peak 1 mode_single error / s,0.09552024986933963,Ti47,first,1.0,s,mode_single error / s
+Ti47 first peak 1 mode_single potential / VvsRHE,1.896008638962036,Ti47,first,1.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 first peak 1 mode_single potential error / VvsRHE,0.0004930743525757286,Ti47,first,1.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 first peak 1 R2adj,0.9662920108757399,Ti47,first,1.0,,R2adj
+Ti47 first peak 2 area_single / ng cm-2,0.6447461345858131,Ti47,first,2.0,ng cm-2,area_single / ng cm-2
+Ti47 first peak 2 area_single error / ng cm-2,0.019866282749435412,Ti47,first,2.0,ng cm-2,area_single error / ng cm-2
+Ti47 first peak 2 ln(std)_single,0.20745580300544883,Ti47,first,2.0,,ln(std)_single
+Ti47 first peak 2 ln(std)_single error,0.006637390284534644,Ti47,first,2.0,,ln(std)_single error
+Ti47 first peak 2 xc_single / s,109.74289036057384,Ti47,first,2.0,s,xc_single / s
+Ti47 first peak 2 xc_single error / s,0.1773298798816294,Ti47,first,2.0,s,xc_single error / s
+Ti47 first peak 2 mode_single / s,105.11997946021958,Ti47,first,2.0,s,mode_single / s
+Ti47 first peak 2 mode_single error / s,0.33564658030787164,Ti47,first,2.0,s,mode_single error / s
+Ti47 first peak 2 mode_single potential / VvsRHE,1.200276934093327,Ti47,first,2.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 first peak 2 mode_single potential error / VvsRHE,8.503832471529194e-07,Ti47,first,2.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 first peak 2 R2adj,0.9014121824411437,Ti47,first,2.0,,R2adj
+Ti47 first peak 3 area_single / ng cm-2,0.5363600011817485,Ti47,first,3.0,ng cm-2,area_single / ng cm-2
+Ti47 first peak 3 area_single error / ng cm-2,0.00868535138210978,Ti47,first,3.0,ng cm-2,area_single error / ng cm-2
+Ti47 first peak 3 ln(std)_single,0.032084763147871294,Ti47,first,3.0,,ln(std)_single
+Ti47 first peak 3 ln(std)_single error,0.0005368207769788955,Ti47,first,3.0,,ln(std)_single error
+Ti47 first peak 3 xc_single / s,832.137724177503,Ti47,first,3.0,s,xc_single / s
+Ti47 first peak 3 xc_single error / s,0.07339095956521247,Ti47,first,3.0,s,xc_single error / s
+Ti47 first peak 3 mode_single / s,831.281535723498,Ti47,first,3.0,s,mode_single / s
+Ti47 first peak 3 mode_single error / s,0.07870929047204885,Ti47,first,3.0,s,mode_single error / s
+Ti47 first peak 3 mode_single potential / VvsRHE,1.7508322645468182,Ti47,first,3.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 first peak 3 mode_single potential error / VvsRHE,0.0003855382980036959,Ti47,first,3.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 first peak 3 R2adj,0.926932728816567,Ti47,first,3.0,,R2adj
+Ti47 first peak 4 area_single / ng cm-2,0.30236416399372573,Ti47,first,4.0,ng cm-2,area_single / ng cm-2
+Ti47 first peak 4 area_single error / ng cm-2,0.00269515269989884,Ti47,first,4.0,ng cm-2,area_single error / ng cm-2
+Ti47 first peak 4 ln(std)_single,0.017433209524437783,Ti47,first,4.0,,ln(std)_single
+Ti47 first peak 4 ln(std)_single error,0.00016448805962313354,Ti47,first,4.0,,ln(std)_single error
+Ti47 first peak 4 xc_single / s,1138.902164365545,Ti47,first,4.0,s,xc_single / s
+Ti47 first peak 4 xc_single error / s,0.055881207519935326,Ti47,first,4.0,s,xc_single error / s
+Ti47 first peak 4 mode_single / s,1138.5560854629628,Ti47,first,4.0,s,mode_single / s
+Ti47 first peak 4 mode_single error / s,0.056244549950137515,Ti47,first,4.0,s,mode_single error / s
+Ti47 first peak 4 mode_single potential / VvsRHE,1.8144920440238932,Ti47,first,4.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 first peak 4 mode_single potential error / VvsRHE,0.0002681104317235894,Ti47,first,4.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 first peak 4 R2adj,0.9838834865370926,Ti47,first,4.0,,R2adj
+Ti47 first peak 5 area_single / ng cm-2,0.124447463668829,Ti47,first,5.0,ng cm-2,area_single / ng cm-2
+Ti47 first peak 5 area_single error / ng cm-2,0.0006499931427328388,Ti47,first,5.0,ng cm-2,area_single error / ng cm-2
+Ti47 first peak 5 ln(std)_single,0.01083068039866284,Ti47,first,5.0,,ln(std)_single
+Ti47 first peak 5 ln(std)_single error,6.74613181472357e-05,Ti47,first,5.0,,ln(std)_single error
+Ti47 first peak 5 xc_single / s,981.4412469734337,Ti47,first,5.0,s,xc_single / s
+Ti47 first peak 5 xc_single error / s,0.032958459750732465,Ti47,first,5.0,s,xc_single error / s
+Ti47 first peak 5 mode_single / s,981.3261270969027,Ti47,first,5.0,s,mode_single / s
+Ti47 first peak 5 mode_single error / s,0.0329857795979163,Ti47,first,5.0,s,mode_single error / s
+Ti47 first peak 5 mode_single potential / VvsRHE,1.3999606144218382,Ti47,first,5.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 first peak 5 mode_single potential error / VvsRHE,0.00013932330155386197,Ti47,first,5.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 first peak 5 R2adj,0.990874292378871,Ti47,first,5.0,,R2adj
+Ti47 first peak 6 area_single / ng cm-2,0.3825972550504785,Ti47,first,6.0,ng cm-2,area_single / ng cm-2
+Ti47 first peak 6 area_single error / ng cm-2,0.009289124453209983,Ti47,first,6.0,ng cm-2,area_single error / ng cm-2
+Ti47 first peak 6 ln(std)_single,0.08667781710691826,Ti47,first,6.0,,ln(std)_single
+Ti47 first peak 6 ln(std)_single error,0.0022285126984330117,Ti47,first,6.0,,ln(std)_single error
+Ti47 first peak 6 xc_single / s,225.7243130509684,Ti47,first,6.0,s,xc_single / s
+Ti47 first peak 6 xc_single error / s,0.13658563689563796,Ti47,first,6.0,s,xc_single error / s
+Ti47 first peak 6 mode_single / s,224.03479103382494,Ti47,first,6.0,s,mode_single / s
+Ti47 first peak 6 mode_single error / s,0.16083645013688866,Ti47,first,6.0,s,mode_single error / s
+Ti47 first peak 6 mode_single potential / VvsRHE,1.2002645680638926,Ti47,first,6.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 first peak 6 mode_single potential error / VvsRHE,2.6619538854300018e-06,Ti47,first,6.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 first peak 6 R2adj,0.9302571262326599,Ti47,first,6.0,,R2adj
+Ti47 first peak 7 area_single / ng cm-2,0.24639915139338883,Ti47,first,7.0,ng cm-2,area_single / ng cm-2
+Ti47 first peak 7 area_single error / ng cm-2,0.0022365374683897955,Ti47,first,7.0,ng cm-2,area_single error / ng cm-2
+Ti47 first peak 7 ln(std)_single,0.014526636379883644,Ti47,first,7.0,,ln(std)_single
+Ti47 first peak 7 ln(std)_single error,0.00013957256869429573,Ti47,first,7.0,,ln(std)_single error
+Ti47 first peak 7 xc_single / s,1162.8581949405243,Ti47,first,7.0,s,xc_single / s
+Ti47 first peak 7 xc_single error / s,0.03568396688944505,Ti47,first,7.0,s,xc_single error / s
+Ti47 first peak 7 mode_single / s,1162.6128308140153,Ti47,first,7.0,s,mode_single / s
+Ti47 first peak 7 mode_single error / s,0.035986582965472705,Ti47,first,7.0,s,mode_single error / s
+Ti47 first peak 7 mode_single potential / VvsRHE,1.6941998386607617,Ti47,first,7.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 first peak 7 mode_single potential error / VvsRHE,0.00019046854973658878,Ti47,first,7.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 first peak 7 R2adj,0.9756560797888008,Ti47,first,7.0,,R2adj
+Ti47 second full fit R2adj,0.9517432814994045,Ti47,second,,,full fit R2adj
+Ti47 second peak 1 area / ng cm-2,0.1126602608860904,Ti47,second,1.0,ng cm-2,area / ng cm-2
+Ti47 second peak 1 area error / ng cm-2,27286.339487722867,Ti47,second,1.0,ng cm-2,area error / ng cm-2
+Ti47 second peak 1 ln(std),0.00037153767342541603,Ti47,second,1.0,,ln(std)
+Ti47 second peak 1 ln(std) error,20.739092434533394,Ti47,second,1.0,,ln(std) error
+Ti47 second peak 1 xc / s,110.8539725832861,Ti47,second,1.0,s,xc / s
+Ti47 second peak 1 xc error / s,4104.314289746683,Ti47,second,1.0,s,xc error / s
+Ti47 second peak 1 mode / s,110.85395728097785,Ti47,second,1.0,s,mode / s
+Ti47 second peak 1 mode error / s,4104.314078716825,Ti47,second,1.0,s,mode error / s
+Ti47 second peak 1 mode potential / VvsRHE,,Ti47,second,1.0,VvsRHE,mode potential / VvsRHE
+Ti47 second peak 1 mode potential error / VvsRHE,,Ti47,second,1.0,VvsRHE,mode potential error / VvsRHE
+Ti47 second peak 2 area / ng cm-2,2.4739931684031466,Ti47,second,2.0,ng cm-2,area / ng cm-2
+Ti47 second peak 2 area error / ng cm-2,0.05632040919204803,Ti47,second,2.0,ng cm-2,area error / ng cm-2
+Ti47 second peak 2 ln(std),0.130810560639802,Ti47,second,2.0,,ln(std)
+Ti47 second peak 2 ln(std) error,0.001533750809009039,Ti47,second,2.0,,ln(std) error
+Ti47 second peak 2 xc / s,492.96614062317974,Ti47,second,2.0,s,xc / s
+Ti47 second peak 2 xc error / s,0.5234527876079074,Ti47,second,2.0,s,xc error / s
+Ti47 second peak 2 mode / s,484.60255881553786,Ti47,second,2.0,s,mode / s
+Ti47 second peak 2 mode error / s,0.5500873141437911,Ti47,second,2.0,s,mode error / s
+Ti47 second peak 2 mode potential / VvsRHE,1.8842416149104038,Ti47,second,2.0,VvsRHE,mode potential / VvsRHE
+Ti47 second peak 2 mode potential error / VvsRHE,0.002746002806886194,Ti47,second,2.0,VvsRHE,mode potential error / VvsRHE
+Ti47 second peak 3 area / ng cm-2,0.4975622866733649,Ti47,second,3.0,ng cm-2,area / ng cm-2
+Ti47 second peak 3 area error / ng cm-2,0.01358218288175292,Ti47,second,3.0,ng cm-2,area error / ng cm-2
+Ti47 second peak 3 ln(std),0.04113248285867768,Ti47,second,3.0,,ln(std)
+Ti47 second peak 3 ln(std) error,0.0010100937540336358,Ti47,second,3.0,,ln(std) error
+Ti47 second peak 3 xc / s,829.6817787510561,Ti47,second,3.0,s,xc / s
+Ti47 second peak 3 xc error / s,0.7423938944525695,Ti47,second,3.0,s,xc error / s
+Ti47 second peak 3 mode / s,828.2792425891118,Ti47,second,3.0,s,mode / s
+Ti47 second peak 3 mode error / s,0.7443278356945835,Ti47,second,3.0,s,mode error / s
+Ti47 second peak 3 mode potential / VvsRHE,1.765847964424848,Ti47,second,3.0,VvsRHE,mode potential / VvsRHE
+Ti47 second peak 3 mode potential error / VvsRHE,0.0037000361719300434,Ti47,second,3.0,VvsRHE,mode potential error / VvsRHE
+Ti47 second peak 4 area / ng cm-2,2.181303250347629,Ti47,second,4.0,ng cm-2,area / ng cm-2
+Ti47 second peak 4 area error / ng cm-2,0.12269197005760336,Ti47,second,4.0,ng cm-2,area error / ng cm-2
+Ti47 second peak 4 ln(std),0.5154277147349134,Ti47,second,4.0,,ln(std)
+Ti47 second peak 4 ln(std) error,0.013077287682000135,Ti47,second,4.0,,ln(std) error
+Ti47 second peak 4 xc / s,111.37332967136487,Ti47,second,4.0,s,xc / s
+Ti47 second peak 4 xc error / s,3.387183766067428,Ti47,second,4.0,s,xc error / s
+Ti47 second peak 4 mode / s,85.38941604566898,Ti47,second,4.0,s,mode / s
+Ti47 second peak 4 mode error / s,2.8406263346854854,Ti47,second,4.0,s,mode error / s
+Ti47 second peak 4 mode potential / VvsRHE,1.2002745495227165,Ti47,second,4.0,VvsRHE,mode potential / VvsRHE
+Ti47 second peak 4 mode potential error / VvsRHE,4.458350733038685e-08,Ti47,second,4.0,VvsRHE,mode potential error / VvsRHE
+Ti47 second peak 5 area / ng cm-2,1.2439647809800807,Ti47,second,5.0,ng cm-2,area / ng cm-2
+Ti47 second peak 5 area error / ng cm-2,0.4206654228212032,Ti47,second,5.0,ng cm-2,area error / ng cm-2
+Ti47 second peak 5 ln(std),0.38373517745829366,Ti47,second,5.0,,ln(std)
+Ti47 second peak 5 ln(std) error,0.0385765862009989,Ti47,second,5.0,,ln(std) error
+Ti47 second peak 5 xc / s,264.0688093059084,Ti47,second,5.0,s,xc / s
+Ti47 second peak 5 xc error / s,12.497165212102425,Ti47,second,5.0,s,xc error / s
+Ti47 second peak 5 mode / s,227.91141530118597,Ti47,second,5.0,s,mode / s
+Ti47 second peak 5 mode error / s,12.722750802304622,Ti47,second,5.0,s,mode error / s
+Ti47 second peak 5 mode potential / VvsRHE,1.200259623109964,Ti47,second,5.0,VvsRHE,mode potential / VvsRHE
+Ti47 second peak 5 mode potential error / VvsRHE,9.315866987824606e-07,Ti47,second,5.0,VvsRHE,mode potential error / VvsRHE
+Ti47 second peak 6 area / ng cm-2,0.3197135913736567,Ti47,second,6.0,ng cm-2,area / ng cm-2
+Ti47 second peak 6 area error / ng cm-2,0.018935271476962123,Ti47,second,6.0,ng cm-2,area error / ng cm-2
+Ti47 second peak 6 ln(std),0.048682700869396314,Ti47,second,6.0,,ln(std)
+Ti47 second peak 6 ln(std) error,0.002553707644393725,Ti47,second,6.0,,ln(std) error
+Ti47 second peak 6 xc / s,1185.515667748748,Ti47,second,6.0,s,xc / s
+Ti47 second peak 6 xc error / s,2.602887941046439,Ti47,second,6.0,s,xc error / s
+Ti47 second peak 6 mode / s,1182.709316104963,Ti47,second,6.0,s,mode / s
+Ti47 second peak 6 mode error / s,2.613324767706728,Ti47,second,6.0,s,mode error / s
+Ti47 second peak 6 mode potential / VvsRHE,1.59368756787949,Ti47,second,6.0,VvsRHE,mode potential / VvsRHE
+Ti47 second peak 6 mode potential error / VvsRHE,0.013072976004147141,Ti47,second,6.0,VvsRHE,mode potential error / VvsRHE
+Ti47 second peak 7 area / ng cm-2,0.05909946168262283,Ti47,second,7.0,ng cm-2,area / ng cm-2
+Ti47 second peak 7 area error / ng cm-2,0.004756733105711654,Ti47,second,7.0,ng cm-2,area error / ng cm-2
+Ti47 second peak 7 ln(std),0.008048449757600423,Ti47,second,7.0,,ln(std)
+Ti47 second peak 7 ln(std) error,0.0006903093475357051,Ti47,second,7.0,,ln(std) error
+Ti47 second peak 7 xc / s,927.4615007583947,Ti47,second,7.0,s,xc / s
+Ti47 second peak 7 xc error / s,0.6161484479123028,Ti47,second,7.0,s,xc error / s
+Ti47 second peak 7 mode / s,927.4014240265168,Ti47,second,7.0,s,mode / s
+Ti47 second peak 7 mode error / s,0.6161947133296464,Ti47,second,7.0,s,mode error / s
+Ti47 second peak 7 mode potential / VvsRHE,1.270251564246545,Ti47,second,7.0,VvsRHE,mode potential / VvsRHE
+Ti47 second peak 7 mode potential error / VvsRHE,0.003086474904039682,Ti47,second,7.0,VvsRHE,mode potential error / VvsRHE
+Ti47 second peak 8 area / ng cm-2,6.3856107170018115,Ti47,second,8.0,ng cm-2,area / ng cm-2
+Ti47 second peak 8 area error / ng cm-2,0.5073822693171894,Ti47,second,8.0,ng cm-2,area error / ng cm-2
+Ti47 second peak 8 ln(std),0.6310194653346817,Ti47,second,8.0,,ln(std)
+Ti47 second peak 8 ln(std) error,0.05037023788595654,Ti47,second,8.0,,ln(std) error
+Ti47 second peak 8 xc / s,830.5738404272046,Ti47,second,8.0,s,xc / s
+Ti47 second peak 8 xc error / s,33.17995933893142,Ti47,second,8.0,s,xc error / s
+Ti47 second peak 8 mode / s,557.7613988345471,Ti47,second,8.0,s,mode / s
+Ti47 second peak 8 mode error / s,41.87634862760442,Ti47,second,8.0,s,mode error / s
+Ti47 second peak 8 mode potential / VvsRHE,1.5184645982411995,Ti47,second,8.0,VvsRHE,mode potential / VvsRHE
+Ti47 second peak 8 mode potential error / VvsRHE,0.20938489633954205,Ti47,second,8.0,VvsRHE,mode potential error / VvsRHE
+Ti47 second peak 1 area_single / ng cm-2,0.4779076264950904,Ti47,second,1.0,ng cm-2,area_single / ng cm-2
+Ti47 second peak 1 area_single error / ng cm-2,0.0021417593686011175,Ti47,second,1.0,ng cm-2,area_single error / ng cm-2
+Ti47 second peak 1 ln(std)_single,0.070392140270087,Ti47,second,1.0,,ln(std)_single
+Ti47 second peak 1 ln(std)_single error,0.0003956272821830475,Ti47,second,1.0,,ln(std)_single error
+Ti47 second peak 1 xc_single / s,111.28975264889657,Ti47,second,1.0,s,xc_single / s
+Ti47 second peak 1 xc_single error / s,0.02420575683415617,Ti47,second,1.0,s,xc_single error / s
+Ti47 second peak 1 mode_single / s,110.739669950405,Ti47,second,1.0,s,mode_single / s
+Ti47 second peak 1 mode_single error / s,0.02486332476122517,Ti47,second,1.0,s,mode_single error / s
+Ti47 second peak 1 mode_single potential / VvsRHE,1.2002683764599258,Ti47,second,1.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 second peak 1 mode_single potential error / VvsRHE,2.237774157087813e-07,Ti47,second,1.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 second peak 1 R2adj,0.9940386535383685,Ti47,second,1.0,,R2adj
+Ti47 second peak 2 area_single / ng cm-2,1.4432288268792337,Ti47,second,2.0,ng cm-2,area_single / ng cm-2
+Ti47 second peak 2 area_single error / ng cm-2,0.008321398482304308,Ti47,second,2.0,ng cm-2,area_single error / ng cm-2
+Ti47 second peak 2 ln(std)_single,0.05395946727134022,Ti47,second,2.0,,ln(std)_single
+Ti47 second peak 2 ln(std)_single error,0.00031617330995613297,Ti47,second,2.0,,ln(std)_single error
+Ti47 second peak 2 xc_single / s,476.4553199532492,Ti47,second,2.0,s,xc_single / s
+Ti47 second peak 2 xc_single error / s,0.031607837370702475,Ti47,second,2.0,s,xc_single error / s
+Ti47 second peak 2 mode_single / s,475.0700787865996,Ti47,second,2.0,s,mode_single / s
+Ti47 second peak 2 mode_single error / s,0.035440310930707604,Ti47,second,2.0,s,mode_single error / s
+Ti47 second peak 2 mode_single potential / VvsRHE,1.9318831260582128,Ti47,second,2.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 second peak 2 mode_single potential error / VvsRHE,0.00018645363906100165,Ti47,second,2.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 second peak 2 R2adj,0.9923329861318235,Ti47,second,2.0,,R2adj
+Ti47 second peak 3 area_single / ng cm-2,0.6532594580881422,Ti47,second,3.0,ng cm-2,area_single / ng cm-2
+Ti47 second peak 3 area_single error / ng cm-2,0.02055539266415333,Ti47,second,3.0,ng cm-2,area_single error / ng cm-2
+Ti47 second peak 3 ln(std)_single,0.029201435757445816,Ti47,second,3.0,,ln(std)_single
+Ti47 second peak 3 ln(std)_single error,0.0009428783045769566,Ti47,second,3.0,,ln(std)_single error
+Ti47 second peak 3 xc_single / s,824.3387614536214,Ti47,second,3.0,s,xc_single / s
+Ti47 second peak 3 xc_single error / s,0.15149942578322387,Ti47,second,3.0,s,xc_single error / s
+Ti47 second peak 3 mode_single / s,823.6361277498409,Ti47,second,3.0,s,mode_single / s
+Ti47 second peak 3 mode_single error / s,0.1580191203767065,Ti47,second,3.0,s,mode_single error / s
+Ti47 second peak 3 mode_single potential / VvsRHE,1.7890736345819724,Ti47,second,3.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 second peak 3 mode_single potential error / VvsRHE,0.0007767453457628859,Ti47,second,3.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 second peak 3 R2adj,0.8879446660187847,Ti47,second,3.0,,R2adj
+Ti47 second peak 4 area_single / ng cm-2,0.21338177783188836,Ti47,second,4.0,ng cm-2,area_single / ng cm-2
+Ti47 second peak 4 area_single error / ng cm-2,0.009917203472798295,Ti47,second,4.0,ng cm-2,area_single error / ng cm-2
+Ti47 second peak 4 ln(std)_single,0.04712833419642751,Ti47,second,4.0,,ln(std)_single
+Ti47 second peak 4 ln(std)_single error,0.002372861372148799,Ti47,second,4.0,,ln(std)_single error
+Ti47 second peak 4 xc_single / s,97.52751207892946,Ti47,second,4.0,s,xc_single / s
+Ti47 second peak 4 xc_single error / s,0.09217669316361532,Ti47,second,4.0,s,xc_single error / s
+Ti47 second peak 4 mode_single / s,97.3111360668577,Ti47,second,4.0,s,mode_single / s
+Ti47 second peak 4 mode_single error / s,0.09451229136976196,Ti47,second,4.0,s,mode_single error / s
+Ti47 second peak 4 mode_single potential / VvsRHE,1.200272530116497,Ti47,second,4.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 second peak 4 mode_single potential error / VvsRHE,7.605051597359136e-07,Ti47,second,4.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 second peak 4 R2adj,0.9124169105251341,Ti47,second,4.0,,R2adj
+Ti47 second peak 5 area_single / ng cm-2,0.6121079899957632,Ti47,second,5.0,ng cm-2,area_single / ng cm-2
+Ti47 second peak 5 area_single error / ng cm-2,0.043367937643914514,Ti47,second,5.0,ng cm-2,area_single error / ng cm-2
+Ti47 second peak 5 ln(std)_single,0.12347838754491278,Ti47,second,5.0,,ln(std)_single
+Ti47 second peak 5 ln(std)_single error,0.009359629710328325,Ti47,second,5.0,,ln(std)_single error
+Ti47 second peak 5 xc_single / s,128.96348820786835,Ti47,second,5.0,s,xc_single / s
+Ti47 second peak 5 xc_single error / s,0.33309054437310776,Ti47,second,5.0,s,xc_single error / s
+Ti47 second peak 5 mode_single / s,127.01210729676765,Ti47,second,5.0,s,mode_single / s
+Ti47 second peak 5 mode_single error / s,0.4402336140574268,Ti47,second,5.0,s,mode_single error / s
+Ti47 second peak 5 mode_single potential / VvsRHE,1.200271848823628,Ti47,second,5.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 second peak 5 mode_single potential error / VvsRHE,1.005766980477496e-06,Ti47,second,5.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 second peak 5 R2adj,0.4268947464862449,Ti47,second,5.0,,R2adj
+Ti47 second peak 6 area_single / ng cm-2,0.31915765850684,Ti47,second,6.0,ng cm-2,area_single / ng cm-2
+Ti47 second peak 6 area_single error / ng cm-2,0.009406048922605506,Ti47,second,6.0,ng cm-2,area_single error / ng cm-2
+Ti47 second peak 6 ln(std)_single,0.019139055451875952,Ti47,second,6.0,,ln(std)_single
+Ti47 second peak 6 ln(std)_single error,0.0005939202785864641,Ti47,second,6.0,,ln(std)_single error
+Ti47 second peak 6 xc_single / s,1173.4056509935726,Ti47,second,6.0,s,xc_single / s
+Ti47 second peak 6 xc_single error / s,0.15070208530183837,Ti47,second,6.0,s,xc_single error / s
+Ti47 second peak 6 mode_single / s,1172.975907176011,Ti47,second,6.0,s,mode_single / s
+Ti47 second peak 6 mode_single error / s,0.15298886938047918,Ti47,second,6.0,s,mode_single error / s
+Ti47 second peak 6 mode_single potential / VvsRHE,1.6423932966820864,Ti47,second,6.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 second peak 6 mode_single potential error / VvsRHE,0.0007797176220069035,Ti47,second,6.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 second peak 6 R2adj,0.7501730842126955,Ti47,second,6.0,,R2adj
+Ti47 second peak 7 area_single / ng cm-2,0.2532272392434672,Ti47,second,7.0,ng cm-2,area_single / ng cm-2
+Ti47 second peak 7 area_single error / ng cm-2,0.0006218921939708509,Ti47,second,7.0,ng cm-2,area_single error / ng cm-2
+Ti47 second peak 7 ln(std)_single,0.014509763764974674,Ti47,second,7.0,,ln(std)_single
+Ti47 second peak 7 ln(std)_single error,3.90935293209136e-05,Ti47,second,7.0,,ln(std)_single error
+Ti47 second peak 7 xc_single / s,927.4067188585014,Ti47,second,7.0,s,xc_single / s
+Ti47 second peak 7 xc_single error / s,0.018408042791266715,Ti47,second,7.0,s,xc_single error / s
+Ti47 second peak 7 mode_single / s,927.2114894648547,Ti47,second,7.0,s,mode_single / s
+Ti47 second peak 7 mode_single error / s,0.018434204076084607,Ti47,second,7.0,s,mode_single error / s
+Ti47 second peak 7 mode_single potential / VvsRHE,1.271197628798091,Ti47,second,7.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 second peak 7 mode_single potential error / VvsRHE,9.766143373735048e-05,Ti47,second,7.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 second peak 7 R2adj,0.9990192667289944,Ti47,second,7.0,,R2adj
+Ti47 third full fit R2adj,0.9427124575141305,Ti47,third,,,full fit R2adj
+Ti47 third peak 1 area / ng cm-2,2.7654338016612536,Ti47,third,1.0,ng cm-2,area / ng cm-2
+Ti47 third peak 1 area error / ng cm-2,0.13376930167305182,Ti47,third,1.0,ng cm-2,area error / ng cm-2
+Ti47 third peak 1 ln(std),0.5626513303292608,Ti47,third,1.0,,ln(std)
+Ti47 third peak 1 ln(std) error,0.010133229388908845,Ti47,third,1.0,,ln(std) error
+Ti47 third peak 1 xc / s,104.58104272576986,Ti47,third,1.0,s,xc / s
+Ti47 third peak 1 xc error / s,1.058151259104313,Ti47,third,1.0,s,xc error / s
+Ti47 third peak 1 mode / s,76.2018529855819,Ti47,third,1.0,s,mode / s
+Ti47 third peak 1 mode error / s,1.1616753040784782,Ti47,third,1.0,s,mode error / s
+Ti47 third peak 1 mode potential / VvsRHE,1.200282367491624,Ti47,third,1.0,VvsRHE,mode potential / VvsRHE
+Ti47 third peak 1 mode potential error / VvsRHE,3.14911744181412e-06,Ti47,third,1.0,VvsRHE,mode potential error / VvsRHE
+Ti47 third peak 2 area / ng cm-2,2.86477522224952,Ti47,third,2.0,ng cm-2,area / ng cm-2
+Ti47 third peak 2 area error / ng cm-2,0.027131680427474904,Ti47,third,2.0,ng cm-2,area error / ng cm-2
+Ti47 third peak 2 ln(std),0.1230983002648864,Ti47,third,2.0,,ln(std)
+Ti47 third peak 2 ln(std) error,0.0009568777909234756,Ti47,third,2.0,,ln(std) error
+Ti47 third peak 2 xc / s,485.37060887974224,Ti47,third,2.0,s,xc / s
+Ti47 third peak 2 xc error / s,0.38343167882844553,Ti47,third,2.0,s,xc error / s
+Ti47 third peak 2 mode / s,478.0711398814933,Ti47,third,2.0,s,mode / s
+Ti47 third peak 2 mode error / s,0.3941005254548152,Ti47,third,2.0,s,mode error / s
+Ti47 third peak 2 mode potential / VvsRHE,1.9168768598260728,Ti47,third,2.0,VvsRHE,mode potential / VvsRHE
+Ti47 third peak 2 mode potential error / VvsRHE,0.0019694299081136624,Ti47,third,2.0,VvsRHE,mode potential error / VvsRHE
+Ti47 third peak 3 area / ng cm-2,0.07288044278607338,Ti47,third,3.0,ng cm-2,area / ng cm-2
+Ti47 third peak 3 area error / ng cm-2,0.006682926145241239,Ti47,third,3.0,ng cm-2,area error / ng cm-2
+Ti47 third peak 3 ln(std),0.007492805270550023,Ti47,third,3.0,,ln(std)
+Ti47 third peak 3 ln(std) error,0.0006578552364427858,Ti47,third,3.0,,ln(std) error
+Ti47 third peak 3 xc / s,879.5697399600358,Ti47,third,3.0,s,xc / s
+Ti47 third peak 3 xc error / s,0.5229647394429227,Ti47,third,3.0,s,xc error / s
+Ti47 third peak 3 mode / s,879.5203604267765,Ti47,third,3.0,s,mode / s
+Ti47 third peak 3 mode error / s,0.5230072574982937,Ti47,third,3.0,s,mode error / s
+Ti47 third peak 3 mode potential / VvsRHE,1.5096323786975454,Ti47,third,3.0,VvsRHE,mode potential / VvsRHE
+Ti47 third peak 3 mode potential error / VvsRHE,0.0026208152031527154,Ti47,third,3.0,VvsRHE,mode potential error / VvsRHE
+Ti47 third peak 4 area / ng cm-2,0.8864410596042137,Ti47,third,4.0,ng cm-2,area / ng cm-2
+Ti47 third peak 4 area error / ng cm-2,0.032919684150109235,Ti47,third,4.0,ng cm-2,area error / ng cm-2
+Ti47 third peak 4 ln(std),0.07349274157054227,Ti47,third,4.0,,ln(std)
+Ti47 third peak 4 ln(std) error,0.002235027786814001,Ti47,third,4.0,,ln(std) error
+Ti47 third peak 4 xc / s,1181.963158895091,Ti47,third,4.0,s,xc / s
+Ti47 third peak 4 xc error / s,2.1382084750047614,Ti47,third,4.0,s,xc error / s
+Ti47 third peak 4 mode / s,1175.5963690762626,Ti47,third,4.0,s,mode / s
+Ti47 third peak 4 mode error / s,2.1614731754841725,Ti47,third,4.0,s,mode error / s
+Ti47 third peak 4 mode potential / VvsRHE,1.6292897374658144,Ti47,third,4.0,VvsRHE,mode potential / VvsRHE
+Ti47 third peak 4 mode potential error / VvsRHE,0.01079745327238013,Ti47,third,4.0,VvsRHE,mode potential error / VvsRHE
+Ti47 third peak 5 area / ng cm-2,0.6772785680859447,Ti47,third,5.0,ng cm-2,area / ng cm-2
+Ti47 third peak 5 area error / ng cm-2,0.021811686831258482,Ti47,third,5.0,ng cm-2,area error / ng cm-2
+Ti47 third peak 5 ln(std),0.058275036132323633,Ti47,third,5.0,,ln(std)
+Ti47 third peak 5 ln(std) error,0.0016216599346509702,Ti47,third,5.0,,ln(std) error
+Ti47 third peak 5 xc / s,853.4728097010691,Ti47,third,5.0,s,xc / s
+Ti47 third peak 5 xc error / s,1.3114763199044668,Ti47,third,5.0,s,xc error / s
+Ti47 third peak 5 mode / s,850.5793490962733,Ti47,third,5.0,s,mode / s
+Ti47 third peak 5 mode error / s,1.3168798810197897,Ti47,third,5.0,s,mode error / s
+Ti47 third peak 5 mode potential / VvsRHE,1.6543752598508072,Ti47,third,5.0,VvsRHE,mode potential / VvsRHE
+Ti47 third peak 5 mode potential error / VvsRHE,0.0065899396097580665,Ti47,third,5.0,VvsRHE,mode potential error / VvsRHE
+Ti47 third peak 6 area / ng cm-2,20.227251615363638,Ti47,third,6.0,ng cm-2,area / ng cm-2
+Ti47 third peak 6 area error / ng cm-2,0.4989999821516798,Ti47,third,6.0,ng cm-2,area error / ng cm-2
+Ti47 third peak 6 ln(std),1.237328013514771,Ti47,third,6.0,,ln(std)
+Ti47 third peak 6 ln(std) error,0.027949669212542744,Ti47,third,6.0,,ln(std) error
+Ti47 third peak 6 xc / s,1091.3887843406771,Ti47,third,6.0,s,xc / s
+Ti47 third peak 6 xc error / s,29.272938335258015,Ti47,third,6.0,s,xc error / s
+Ti47 third peak 6 mode / s,236.09296932593867,Ti47,third,6.0,s,mode / s
+Ti47 third peak 6 mode error / s,17.514400058991786,Ti47,third,6.0,s,mode error / s
+Ti47 third peak 6 mode potential / VvsRHE,1.2002669807460324,Ti47,third,6.0,VvsRHE,mode potential / VvsRHE
+Ti47 third peak 6 mode potential error / VvsRHE,3.0871642324736825e-06,Ti47,third,6.0,VvsRHE,mode potential error / VvsRHE
+Ti47 third peak 1 area_single / ng cm-2,3.0945278401753282,Ti47,third,1.0,ng cm-2,area_single / ng cm-2
+Ti47 third peak 1 area_single error / ng cm-2,0.12282052953087393,Ti47,third,1.0,ng cm-2,area_single error / ng cm-2
+Ti47 third peak 1 ln(std)_single,0.42775951591091066,Ti47,third,1.0,,ln(std)_single
+Ti47 third peak 1 ln(std)_single error,0.015374679080546086,Ti47,third,1.0,,ln(std)_single error
+Ti47 third peak 1 xc_single / s,99.2729120364106,Ti47,third,1.0,s,xc_single / s
+Ti47 third peak 1 xc_single error / s,1.090070391947505,Ti47,third,1.0,s,xc_single error / s
+Ti47 third peak 1 mode_single / s,82.67312184021436,Ti47,third,1.0,s,mode_single / s
+Ti47 third peak 1 mode_single error / s,1.4165416653702554,Ti47,third,1.0,s,mode_single error / s
+Ti47 third peak 1 mode_single potential / VvsRHE,1.2002748976471576,Ti47,third,1.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 third peak 1 mode_single potential error / VvsRHE,8.500424488744329e-07,Ti47,third,1.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 third peak 1 R2adj,0.8427258488533858,Ti47,third,1.0,,R2adj
+Ti47 third peak 2 area_single / ng cm-2,2.925051392841884,Ti47,third,2.0,ng cm-2,area_single / ng cm-2
+Ti47 third peak 2 area_single error / ng cm-2,0.08639402632278938,Ti47,third,2.0,ng cm-2,area_single error / ng cm-2
+Ti47 third peak 2 ln(std)_single,0.08171052918518032,Ti47,third,2.0,,ln(std)_single
+Ti47 third peak 2 ln(std)_single error,0.0024573798674940254,Ti47,third,2.0,,ln(std)_single error
+Ti47 third peak 2 xc_single / s,472.92615163521856,Ti47,third,2.0,s,xc_single / s
+Ti47 third peak 2 xc_single error / s,0.14354480932961086,Ti47,third,2.0,s,xc_single error / s
+Ti47 third peak 2 mode_single / s,469.77912531284403,Ti47,third,2.0,s,mode_single / s
+Ti47 third peak 2 mode_single error / s,0.23648137646210898,Ti47,third,2.0,s,mode_single error / s
+Ti47 third peak 2 mode_single potential / VvsRHE,1.9583668074780247,Ti47,third,2.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 third peak 2 mode_single potential error / VvsRHE,0.001164842137282962,Ti47,third,2.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 third peak 2 R2adj,0.8820387808291623,Ti47,third,2.0,,R2adj
+Ti47 third peak 3 area_single / ng cm-2,0.6036199439768102,Ti47,third,3.0,ng cm-2,area_single / ng cm-2
+Ti47 third peak 3 area_single error / ng cm-2,0.00465549973337399,Ti47,third,3.0,ng cm-2,area_single error / ng cm-2
+Ti47 third peak 3 ln(std)_single,0.01693624650560041,Ti47,third,3.0,,ln(std)_single
+Ti47 third peak 3 ln(std)_single error,0.00014065496208665498,Ti47,third,3.0,,ln(std)_single error
+Ti47 third peak 3 xc_single / s,879.4263310864955,Ti47,third,3.0,s,xc_single / s
+Ti47 third peak 3 xc_single error / s,0.05923882420414954,Ti47,third,3.0,s,xc_single error / s
+Ti47 third peak 3 mode_single / s,879.1741157374393,Ti47,third,3.0,s,mode_single / s
+Ti47 third peak 3 mode_single error / s,0.05936977977083076,Ti47,third,3.0,s,mode_single error / s
+Ti47 third peak 3 mode_single potential / VvsRHE,1.5113969983810027,Ti47,third,3.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 third peak 3 mode_single potential error / VvsRHE,0.00028623996203935853,Ti47,third,3.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 third peak 3 R2adj,0.9914952422617392,Ti47,third,3.0,,R2adj
+Ti47 third peak 4 area_single / ng cm-2,0.6094002778084867,Ti47,third,4.0,ng cm-2,area_single / ng cm-2
+Ti47 third peak 4 area_single error / ng cm-2,0.03461629924026013,Ti47,third,4.0,ng cm-2,area_single error / ng cm-2
+Ti47 third peak 4 ln(std)_single,0.019923328621983392,Ti47,third,4.0,,ln(std)_single
+Ti47 third peak 4 ln(std)_single error,0.0011699681813493845,Ti47,third,4.0,,ln(std)_single error
+Ti47 third peak 4 xc_single / s,1131.5048194900678,Ti47,third,4.0,s,xc_single / s
+Ti47 third peak 4 xc_single error / s,0.2554677637468814,Ti47,third,4.0,s,xc_single error / s
+Ti47 third peak 4 mode_single / s,1131.0557702005594,Ti47,third,4.0,s,mode_single / s
+Ti47 third peak 4 mode_single error / s,0.26075340905423305,Ti47,third,4.0,s,mode_single error / s
+Ti47 third peak 4 mode_single potential / VvsRHE,1.8519776509941575,Ti47,third,4.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 third peak 4 mode_single potential error / VvsRHE,0.001323148877789282,Ti47,third,4.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 third peak 4 R2adj,0.610821855954497,Ti47,third,4.0,,R2adj
+Ti47 third peak 5 area_single / ng cm-2,1.7949664193463195,Ti47,third,5.0,ng cm-2,area_single / ng cm-2
+Ti47 third peak 5 area_single error / ng cm-2,0.20163094167395404,Ti47,third,5.0,ng cm-2,area_single error / ng cm-2
+Ti47 third peak 5 ln(std)_single,0.06713300723406539,Ti47,third,5.0,,ln(std)_single
+Ti47 third peak 5 ln(std)_single error,0.007498690276990351,Ti47,third,5.0,,ln(std)_single error
+Ti47 third peak 5 xc_single / s,807.2052601206582,Ti47,third,5.0,s,xc_single / s
+Ti47 third peak 5 xc_single error / s,1.5573973733319375,Ti47,third,5.0,s,xc_single error / s
+Ti47 third peak 5 mode_single / s,803.5755001519088,Ti47,third,5.0,s,mode_single / s
+Ti47 third peak 5 mode_single error / s,1.7487975041288597,Ti47,third,5.0,s,mode_single error / s
+Ti47 third peak 5 mode_single potential / VvsRHE,1.8893978426678304,Ti47,third,5.0,VvsRHE,mode_single potential / VvsRHE
+Ti47 third peak 5 mode_single potential error / VvsRHE,0.008763754045246763,Ti47,third,5.0,VvsRHE,mode_single potential error / VvsRHE
+Ti47 third peak 5 R2adj,0.8223174037164204,Ti47,third,5.0,,R2adj
